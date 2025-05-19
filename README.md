@@ -1,6 +1,6 @@
 # Pepsico Task 3 & 4– Distributors Dashboard
 
-This is the completed frontend UI for Task 3 of the Pepsico Advanced Software Engineering Job Simulation.
+This repo includes the completed frontend UI for task 3 and deployed using Azure for task 4 done as part of the Pepsico Advanced Software Engineering Job Simulation by Harinee Anandh. 
 
 Tech stack:
 - React
