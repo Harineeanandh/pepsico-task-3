@@ -10,3 +10,9 @@ Features:
 - Interactive distributor filters
 - Sales threshold filter
 - Dynamic bar chart visualizing distributor statuses
+
+## Live Demo
+
+Check out the deployed frontend here:  
+👉 https://zealous-cliff-0799a2310.6.azurestaticapps.net/
+
