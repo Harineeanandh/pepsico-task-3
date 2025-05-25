@@ -1,0 +1,43 @@
+.chart-legend {
+    margin-top: 8px;
+    display: flex;
+    justify-content: center;
+    gap: 16px;
+    font-size: 14px;
+  }
+  
+  .legend-item {
+    display: flex;
+    align-items: center;
+  }
+  
+  .legend-color-box {
+    width: 14px;
+    height: 14px;
+    display: inline-block;
+    margin-right: 6px;
+    border-radius: 2px;
+  }
+  .distributor-names-section {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  }
+  
+  .status-names-block {
+    margin-bottom: 15px;
+  }
+  
+  .status-names-block h4 {
+    margin: 0 0 5px;
+    color: #333;
+  }
+  
+  .status-names-block ul {
+    margin: 5px 0 10px;
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  

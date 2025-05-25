@@ -1,16 +1,17 @@
-import React, {Component} from 'react';
-import './App.css';
-import DashboardTable from "./DashboardTable";
+import React from 'react';
+import './styles/App.css';
+import DashboardPage from './components/DashboardPage';
 
-class App extends Component {
-    render() {
-        return (
-            <div className="App">
-                <h1>Augur Supply Chain Logistics</h1>
-                <DashboardTable/>
-            </div>
-        );
-    }
-}
+function App() {
+    return (
+      <div className="App-background">
+        <div className="App">
+          <h1>Augur Supply Chain Logistics</h1>
+          <DashboardPage />
+        </div>
+      </div>
+    );
+  }
+  
 
 export default App;
